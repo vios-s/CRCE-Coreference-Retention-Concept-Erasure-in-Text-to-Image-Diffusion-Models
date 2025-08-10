@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-from ours_tools import execute_ours_unlearn
+from srcs.ours_tools import execute_ours_unlearn
 
 # Erase "airplane" and related concepts while preserving other flying objects
 result = execute_ours_unlearn(
@@ -55,7 +55,7 @@ result = execute_ours_unlearn(
 
 For automated experiments with LLM-guided concept identification:
 ```bash
-python main.py  # Requires llmconfig.json with API keys
+python srcs/main.py  # Requires llmconfig.json with API keys
 ```
 
 ## CorefConcept Dataset
