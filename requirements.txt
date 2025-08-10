@@ -1,0 +1,35 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+pandas>=1.3.0
+pillow>=9.0.0
+tqdm>=4.64.0
+
+# Diffusion models and transformers
+diffusers
+transformers
+accelerate
+
+# Computer Vision and ML metrics
+torchmetrics>=0.11.0
+git+https://github.com/openai/CLIP.git
+
+# Multi-agent framework
+ag2[openai]
+agentops>=0.2.0
+
+# Data validation and type hints
+pydantic>=2.0.0
+typing-extensions>=4.5.0
+
+# Image processing
+opencv-python>=4.7.0
+
+# Optional: for better performance
+# xformers>=0.0.20
+
+# Development tools (optional)
+# jupyter>=1.0.0
+# matplotlib>=3.5.0
+# seaborn>=0.11.0

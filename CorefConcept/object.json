@@ -1,0 +1,1601 @@
+{
+  "object": [
+    {
+      "type": "object",
+      "concept": "airplane",
+      "train-coref": [
+        "aeroplane",
+        "plane",
+        "jet plane",
+        "passenger plane",
+        "commercial airliner",
+        "passenger jet",
+        "cargo plane",
+        "private jet",
+        "military jet",
+        "biplane"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-coref": [
+        "aircraft",
+        "glider",
+        "seaplane",
+        "stealth bomber",
+        "flying machine"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "hot air balloon",
+        "blimp",
+        "airship",
+        "rocket",
+        "spaceship",
+        "drone",
+        "hovercraft",
+        "jetpack",
+        "paramotor",
+        "hang glider"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "helicopter",
+        "gyrocopter",
+        "submarine",
+        "boat",
+        "train"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "automobile",
+      "train-coref": [
+        "motorcar",
+        "motor vehicle",
+        "passenger car",
+        "civilian car",
+        "personal vehicle",
+        "private car",
+        "sedan",
+        "SUV",
+        "crossover",
+        "minivan"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "car",
+        "station wagon",
+        "convertible",
+        "coupe",
+        "limousine"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "moped",
+        "bicycle",
+        "truck",
+        "cargo van",
+        "golf cart",
+        "bus",
+        "tram",
+        "subway train",
+        "electric scooter",
+        "kicksled"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "motorcycle",
+        "hovercraft",
+        "boat",
+        "ship",
+        "airplane"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Very Low",
+        "Very Low",
+        "Very Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "bird",
+      "train-coref": [
+        "feathered creature",
+        "winged animal",
+        "songbird",
+        "fowl",
+        "wild bird",
+        "raptor",
+        "waterfowl",
+        "passerine bird",
+        "ornithic creature",
+        "tropical bird"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-coref": [
+        "avian",
+        "exotic bird",
+        "pet bird",
+        "birdlike creature",
+        "flying animal"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "flying squirrel",
+        "sugar glider",
+        "butterfly",
+        "moth",
+        "dragonfly",
+        "bee",
+        "wasp",
+        "pterosaur",
+        "flying fish",
+        "fruit bat"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "bat",
+        "gliding possum",
+        "fairy",
+        "angel",
+        "pegasus"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Very Low",
+        "Very Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "cat",
+      "train-coref": [
+        "house cat",
+        "pet cat",
+        "kitty",
+        "tomcat",
+        "feline companion",
+        "tabby cat",
+        "Siamese cat",
+        "Persian cat",
+        "Maine Coon",
+        "Bengal cat"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "domestic cat",
+        "Ragdoll cat",
+        "Russian Blue",
+        "Sphynx cat",
+        "feline house pet"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "puppy",
+        "fox",
+        "ferret",
+        "raccoon",
+        "rabbit",
+        "hamster",
+        "guinea pig",
+        "chinchilla",
+        "small monkey",
+        "opossum"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "dog",
+        "meerkat",
+        "mongoose",
+        "koala",
+        "stoat"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "deer",
+      "train-coref": [
+        "wild deer",
+        "cervid",
+        "buck",
+        "doe",
+        "fawn",
+        "red deer",
+        "roe deer",
+        "sika deer",
+        "mule deer",
+        "reindeer"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-coref": [
+        "white-tailed deer",
+        "caribou",
+        "elk",
+        "axis deer",
+        "forest cervid"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "gazelle",
+        "impala",
+        "springbok",
+        "ibex",
+        "wild goat",
+        "sheep",
+        "wildebeest",
+        "wild boar",
+        "camel",
+        "llama"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "antelope",
+        "giraffe",
+        "zebra",
+        "horse",
+        "kangaroo"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Very Low",
+        "Very Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "dog",
+      "train-coref": [
+        "house dog",
+        "pet dog",
+        "pooch",
+        "puppy",
+        "family dog",
+        "canine companion",
+        "dog breed",
+        "working dog",
+        "guard dog",
+        "guide dog"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-coref": [
+        "domestic dog",
+        "service dog",
+        "show dog",
+        "mongrel",
+        "hound"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "coyote",
+        "jackal",
+        "fox",
+        "dingo",
+        "dhole",
+        "raccoon dog",
+        "hyena",
+        "bush dog",
+        "domestic cat",
+        "pig"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "wolf",
+        "ferret",
+        "monkey",
+        "goat",
+        "sheep"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Very Low",
+        "Very Low",
+        "Very Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "frog",
+      "train-coref": [
+        "anuran amphibian",
+        "tailless amphibian",
+        "pond frog",
+        "bullfrog",
+        "tree frog",
+        "marsh frog",
+        "ranid frog",
+        "croaking frog",
+        "jumping amphibian",
+        "green frog"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "common frog",
+        "water frog",
+        "frog-like amphibian",
+        "hopping amphibian",
+        "small aquatic amphibian"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "salamander",
+        "newt",
+        "caecilian",
+        "gecko",
+        "iguana",
+        "lizard",
+        "turtle",
+        "snake",
+        "fish",
+        "crustacean"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "toad",
+        "mudskipper",
+        "axolotl",
+        "tadpole",
+        "natterjack toad"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "horse",
+      "train-coref": [
+        "mare",
+        "stallion",
+        "colt",
+        "filly",
+        "equine",
+        "pony",
+        "racehorse",
+        "draft horse",
+        "steed",
+        "war horse"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-coref": [
+        "domestic horse",
+        "thoroughbred",
+        "Arabian horse",
+        "light riding horse",
+        "wild horse"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "mule",
+        "zebra",
+        "onager",
+        "moose",
+        "bull",
+        "yak",
+        "water buffalo",
+        "goat",
+        "sheep",
+        "reindeer"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low",
+        "Very Low"
+      ],
+      "test-retain": [
+        "donkey",
+        "llama",
+        "alpaca",
+        "hippopotamus",
+        "giraffe"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Very Low",
+        "Very Low",
+        "Very Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "ship",
+      "train-coref": [
+        "maritime vessel",
+        "ocean-going vessel",
+        "large boat",
+        "naval ship",
+        "merchant ship",
+        "freighter",
+        "cargo ship",
+        "cruise ship",
+        "passenger liner",
+        "tanker"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-coref": [
+        "sea vessel",
+        "battleship",
+        "warship",
+        "naval cruiser",
+        "water-based craft"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "yacht",
+        "canoe",
+        "kayak",
+        "dinghy",
+        "raft",
+        "catamaran",
+        "barge",
+        "hovercraft",
+        "submarine",
+        "amphibious boat"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "sailboat",
+        "speedboat",
+        "rowboat",
+        "fishing boat",
+        "fishing trawler"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Very Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "truck",
+      "train-coref": [
+        "lorry",
+        "cargo truck",
+        "freight truck",
+        "pickup truck",
+        "commercial truck",
+        "heavy-duty vehicle",
+        "box truck",
+        "flatbed truck",
+        "18-wheeler",
+        "semi-truck"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-coref": [
+        "truck",
+        "big rig",
+        "dump truck",
+        "garbage truck",
+        "tow truck"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "minivan",
+        "SUV",
+        "bus",
+        "jeep",
+        "forklift",
+        "bulldozer",
+        "tractor",
+        "ambulance",
+        "motorhome",
+        "passenger van"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "cargo van",
+        "school bus",
+        "trolley",
+        "passenger car",
+        "train"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Very Low",
+        "Very Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "fish",
+      "train-coref": [
+        "finned aquatic creature",
+        "bony fish",
+        "marine fish",
+        "freshwater fish",
+        "schooling fish",
+        "tropical reef fish",
+        "ornamental aquarium fish",
+        "cold-water fish",
+        "predatory fish",
+        "salmon species"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"        
+      ],
+      "test-coref": [
+        "aquatic vertebrate",
+        "tuna species",
+        "carp family fish",
+        "catfish variety",
+        "fish-like silhouette"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "whale",
+        "dolphin",
+        "seal",
+        "octopus",
+        "crab",
+        "shrimp",
+        "lobster",
+        "jellyfish",
+        "starfish",
+        "sea turtle"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"        
+      ],
+      "test-retain": [
+        "frog",
+        "stingray",
+        "eel",
+        "seahorse",
+        "mermaid"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "church",
+      "train-coref": [
+        "Christian place of worship",
+        "house of prayer",
+        "chapel",
+        "cathedral",
+        "basilica",
+        "kirk",
+        "mission church",
+        "parish church",
+        "sanctuary",
+        "congregational church"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "church building",
+        "church house",
+        "formal church edifice",
+        "abbey church",
+        "religious congregation building"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "mosque",
+        "temple",
+        "shrine",
+        "gurdwara",
+        "pagoda",
+        "stupa",
+        "mandir",
+        "shinto shrine",
+        "monastery",
+        "convent"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "synagogue",
+        "catacomb",
+        "mausoleum",
+        "community center",
+        "theater"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Very Low",
+        "Very Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "apple (fruit)",
+      "train-coref": [
+        "orchard apple",
+        "raw apple",
+        "domesticated apple",
+        "cultivated apple",
+        "Malus domestica",
+        "Honeycrisp apple",
+        "Granny Smith apple",
+        "Gala apple",
+        "Fuji apple",
+        "Braeburn apple"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-coref": [
+        "fresh apple",
+        "McIntosh apple",
+        "Golden Delicious",
+        "Red Delicious",
+        "pome fruit"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "peach",
+        "plum",
+        "apricot",
+        "nectarine",
+        "cherry",
+        "quince",
+        "persimmon",
+        "mango",
+        "banana",
+        "orange"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "pear",
+        "grapefruit",
+        "lemon",
+        "grape",
+        "kiwi"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Very Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "Apple (company)",
+      "train-coref": [
+        "Apple the tech company",
+        "Apple corporation",
+        "Cupertino-based Apple",
+        "iPhone maker",
+        "Mac manufacturer",
+        "Apple brand",
+        "Apple Computer",
+        "Apple electronics",
+        "Apple software developer",
+        "Apple hardware giant"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-coref": [
+        "Apple Inc.",
+        "Apple consumer tech",
+        "Apple multinational corporation",
+        "Silicon Valley Apple",
+        "a technology brand in California"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Google",
+        "Amazon",
+        "Meta",
+        "Samsung",
+        "Huawei",
+        "IBM",
+        "Intel",
+        "Sony",
+        "LG",
+        "HP"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "Microsoft",
+        "Dell",
+        "Adobe",
+        "Xiaomi",
+        "Facebook"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "bank (financial institution)",
+      "train-coref": [
+        "commercial bank",
+        "chartered bank",
+        "savings bank",
+        "lending institution",
+        "monetary deposit institution",
+        "bank corporation",
+        "branch bank",
+        "banking firm",
+        "investment bank",
+        "private bank"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-coref": [
+        "financial institution",
+        "central bank",
+        "mortgage bank",
+        "public bank",
+        "banking office"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "credit union",
+        "stock exchange",
+        "brokerage firm",
+        "building society",
+        "hedge fund",
+        "mutual fund",
+        "crowdfunding platform",
+        "online payment service",
+        "cryptocurrency exchange",
+        "fintech startup"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "insurance company",
+        "venture capital firm",
+        "loan shark",
+        "payday lender",
+        "pawn shop"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Very Low",
+        "Very Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "bank (riverbank)",
+      "train-coref": [
+        "river shoreline",
+        "river margin",
+        "river edge",
+        "stream bank",
+        "river embankment",
+        "creek bank",
+        "brookside",
+        "waterfront",
+        "riverside",
+        "river boundary"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "river bank",
+        "river brink",
+        "river floodplain",
+        "river coastline",
+        "watercourse bank"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "coastline",
+        "seashore",
+        "cliff",
+        "delta",
+        "marsh",
+        "wetland",
+        "swamp",
+        "riverbed",
+        "river channel",
+        "river mouth"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "beach",
+        "canal path",
+        "lake shore",
+        "reservoir bank",
+        "harbor quay"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Very Low",
+        "Very Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "bat (animal)",
+      "train-coref": [
+        "chiropteran",
+        "nocturnal bat",
+        "fruit bat",
+        "insectivorous bat",
+        "vampire bat",
+        "megabat",
+        "microbat",
+        "bat colony creature",
+        "cave-dwelling bat",
+        "winged nocturnal mammal"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-coref": [
+        "flying mammal",
+        "guano-producing bat",
+        "flying fox",
+        "bat-like mammal",
+        "archaic chiroptera"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "sugar glider",
+        "owl",
+        "bird",
+        "flying fish",
+        "moth",
+        "butterfly",
+        "colugo",
+        "pterosaur",
+        "dragon",
+        "fairy"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "flying squirrel",
+        "angel",
+        "raccoon",
+        "rat",
+        "fox"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Very Low",
+        "Very Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "bat (sports equipment)",
+      "train-coref": [
+        "cricket bat",
+        "softball bat",
+        "wooden bat",
+        "metal bat",
+        "aluminum bat",
+        "little league bat",
+        "batting stick",
+        "batter's club",
+        "home run bat",
+        "practice bat"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-coref": [
+        "baseball bat",
+        "bat-like sports gear",
+        "t-ball bat",
+        "junior bat",
+        "hitting post"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "badminton racket",
+        "table tennis paddle",
+        "cricket stumps",
+        "golf club",
+        "hockey stick",
+        "lacrosse stick",
+        "field hockey stick",
+        "pool cue",
+        "bowling pin",
+        "boxing glove"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "tennis racket",
+        "baseball glove",
+        "corner flag",
+        "volleyball net",
+        "soccer ball"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Very Low",
+        "Very Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "crane (bird)",
+      "train-coref": [
+        "wading crane",
+        "Gruidae family bird",
+        "migratory crane",
+        "common crane",
+        "whooping crane",
+        "demoiselle crane",
+        "crowned crane",
+        "Siberian crane",
+        "large wading bird",
+        "ornithological crane"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-coref": [
+        "crane bird",
+        "crane species",
+        "tall water bird",
+        "marsh crane",
+        "long-legged crane"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "egret",
+        "stork",
+        "ibis",
+        "flamingo",
+        "shoebill",
+        "spoonbill",
+        "pelican",
+        "secretary bird",
+        "marabou stork",
+        "ostrich"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "heron",
+        "emu",
+        "cassowary",
+        "rhea",
+        "peacock"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Very Low",
+        "Very Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "object",
+      "concept": "crane (machinery)",
+      "train-coref": [
+        "tower crane",
+        "mobile crane",
+        "overhead crane",
+        "lifting crane",
+        "heavy-duty crane",
+        "truck crane",
+        "derrick crane",
+        "boom crane",
+        "industrial crane",
+        "port crane"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-coref": [
+        "construction crane",
+        "gantry crane",
+        "bridge crane",
+        "crawler crane",
+        "mechanical lifting crane"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "excavator",
+        "bulldozer",
+        "backhoe loader",
+        "telehandler",
+        "scissor lift",
+        "winch system",
+        "cherry picker",
+        "pallet jack",
+        "construction elevator",
+        "road roller"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "forklift",
+        "loader",
+        "tunnel boring machine",
+        "conveyor belt",
+        "mining shovel"
+      ],
+      "test-retain-certainty": [
+        "Very High",
+        "Low",
+        "Very Low",
+        "Very Low",
+        "Very Low"
+      ]
+    }
+  ]
+}

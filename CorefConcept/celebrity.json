@@ -1,0 +1,1204 @@
+{
+  "celebrity": [
+    {
+      "type": "celebrity",
+      "concept": "Taylor Swift",
+      "train-coref": [
+        "pop-country crossover star",
+        "Grammy-winning vocalist",
+        "Fearless album creator",
+        "Midnights album artist",
+        "global chart-topping icon",
+        "multi-genre performer",
+        "Billboard record-breaker",
+        "Storytelling lyricist",
+        "folklore-inspired musician",
+        "worldwide touring sensation"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "American singer-songwriter",
+        "cultural phenomenon",
+        "philanthropic pop figure",
+        "noted fashion influencer",
+        "award-show headliner"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Katy Perry",
+        "Billie Eilish",
+        "Miley Cyrus",
+        "Lana Del Rey",
+        "Lorde",
+        "Halsey",
+        "Kacey Musgraves",
+        "Carrie Underwood",
+        "Lady Gaga",
+        "Avril Lavigne"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "Adele",
+        "Madonna",
+        "Shakira",
+        "Demi Lovato",
+        "Sia"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "celebrity",
+      "concept": "Ariana Grande",
+      "train-coref": [
+        "former Nickelodeon star",
+        "Grammy-award-winning singer",
+        "high vocal range performer",
+        "Sweetener album artist",
+        "Positions album creator",
+        "chart-topping pop icon",
+        "signature ponytail trendsetter",
+        "Broadway-influenced musician",
+        "social media powerhouse",
+        "philanthropic pop figure"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "pop-R&B vocalist",
+        "multi-octave vocalist",
+        "pop princess persona",
+        "music video sensation",
+        "frequent collaboration artist"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Dua Lipa",
+        "Selena Gomez",
+        "Olivia Rodrigo",
+        "Tove Lo",
+        "Halsey",
+        "Madison Beer",
+        "Doja Cat",
+        "Rosal�a",
+        "Zara Larsson",
+        "Bebe Rexha"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "Camila Cabello",
+        "Becky G",
+        "Tinashe",
+        "Jessie J",
+        "Rita Ora"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "celebrity",
+      "concept": "Beyonce",
+      "train-coref": [
+        "former Destiny's Child member",
+        "Grammy record-breaking singer",
+        "global pop icon",
+        "visual album innovator",
+        "Halo performer",
+        "hip-hop soul influencer",
+        "multi-platinum recording artist",
+        "Coachella headliner",
+        "Billboard chart dominator",
+        "Oscar-nominated performer"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "renowned R&B vocalist",
+        "powerful stage presence",
+        "Queen Bey persona",
+        "entrepreneurial pop star",
+        "philanthropic megastar"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Jennifer Hudson",
+        "Kelly Rowland",
+        "Janet Jackson",
+        "Rihanna",
+        "Alicia Keys",
+        "Mariah Carey",
+        "Brandy",
+        "Ciara",
+        "Ashanti",
+        "Toni Braxton"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "Solange Knowles",
+        "Whitney Houston",
+        "TLC trio members",
+        "Monica",
+        "Teyana Taylor"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "celebrity",
+      "concept": "Donald Trump",
+      "train-coref": [
+        "real estate mogul",
+        "reality TV personality",
+        "billionaire businessman",
+        "political figurehead",
+        "luxury hotel developer",
+        "former Apprentice host",
+        "noted social media commentator",
+        "golf resort owner",
+        "Mar-a-Lago proprietor",
+        "controversial public figure"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "former US president",
+        "Make America Great Again promoter",
+        "immigration policy advocate",
+        "media attention focal point",
+        "political rally organizer"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Barack Obama",
+        "Hillary Clinton",
+        "Ron DeSantis",
+        "Ted Cruz",
+        "Bernie Sanders",
+        "George W. Bush",
+        "Bill Clinton",
+        "Mike Pence",
+        "Kamala Harris",
+        "Mitt Romney"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "Joe Biden",
+        "Marco Rubio",
+        "Nancy Pelosi",
+        "Mitch McConnell",
+        "Liz Cheney"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "celebrity",
+      "concept": "Dwayne The Rock Johnson",
+      "train-coref": [
+        "Hollywood action star",
+        "Fast & Furious franchise actor",
+        "fitness icon",
+        "highest-paid actor laureate",
+        "Black Adam portrayal",
+        "charismatic movie personality",
+        "family-friendly film actor",
+        "entrepreneurial spirit",
+        "motivational social media figure",
+        "producer and entertainer"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "former WWE wrestler",
+        "former college football player",
+        "Hollywood blockbuster lead",
+        "physically imposing figure",
+        "Tequila brand owner"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Vin Diesel",
+        "Jason Statham",
+        "Dave Bautista",
+        "Mark Wahlberg",
+        "Chris Hemsworth",
+        "Terry Crews",
+        "Idris Elba",
+        "Zac Efron",
+        "Chris Evans",
+        "Hugh Jackman"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "John Cena",
+        "Michael B. Jordan",
+        "Henry Cavill",
+        "Kevin Hart",
+        "Ryan Reynolds"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "celebrity",
+      "concept": "Emma Watson",
+      "train-coref": [
+        "Hermione Granger portrayal",
+        "Harry Potter franchise star",
+        "UN Women Goodwill Ambassador",
+        "Brown University graduate",
+        "Beauty and the Beast lead",
+        "activist for gender equality",
+        "fashion muse",
+        "book club founder",
+        "ethical fashion advocate",
+        "sustainability supporter"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "British actress",
+        "child actress turned adult star",
+        "English film icon",
+        "female empowerment voice",
+        "philanthropic public figure"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Rupert Grint",
+        "Bonnie Wright",
+        "Evanna Lynch",
+        "Emma Thompson",
+        "Keira Knightley",
+        "Saoirse Ronan",
+        "Lily Collins",
+        "Natalie Portman",
+        "Anne Hathaway",
+        "Dakota Fanning"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "Daniel Radcliffe",
+        "Elizabeth Olsen",
+        "Chlo� Grace Moretz",
+        "Jennifer Lawrence",
+        "Kristen Stewart"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "celebrity",
+      "concept": "Mindy Kaling",
+      "train-coref": [
+        "The Office writer",
+        "Kelly Kapoor portrayal",
+        "Mindy Project creator",
+        "television producer",
+        "scripted comedy innovator",
+        "voice-over talent",
+        "Dartmouth College graduate",
+        "comedic author",
+        "diversity advocate",
+        "romantic comedy actress"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "comedian and actress",
+        "female showrunner pioneer",
+        "Hollywood comedic writer",
+        "multitalented entertainer",
+        "award-nominated TV figure"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Megan Amram",
+        "Phoebe Waller-Bridge",
+        "Tina Fey",
+        "Amy Poehler",
+        "Rashida Jones",
+        "Nasim Pedrad",
+        "Aubrey Plaza",
+        "Chelsea Peretti",
+        "Ilana Glazer",
+        "Abbi Jacobson"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "BJ Novak",
+        "Issa Rae",
+        "Ali Wong",
+        "Michaela Coel",
+        "Nicole Byer"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "celebrity",
+      "concept": "Mark Zuckerberg",
+      "train-coref": [
+        "tech entrepreneur",
+        "social media pioneer",
+        "Harvard dropout CEO",
+        "Meta Platforms leader",
+        "philanthropic billionaire",
+        "internet communication innovator",
+        "Silicon Valley figurehead",
+        "social network architect",
+        "virtual reality advocate",
+        "chan zuckerberg initiative founder"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "Facebook co-founder",
+        "software developer",
+        "tech industry disruptor",
+        "global digital influencer",
+        "social media empire builder"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Elon Musk",
+        "Sundar Pichai",
+        "Tim Cook",
+        "Satya Nadella",
+        "Larry Page",
+        "Sergey Brin",
+        "Jeff Bezos",
+        "Evan Spiegel",
+        "Reed Hastings",
+        "Drew Houston"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "Jack Dorsey",
+        "Daniel Ek",
+        "Susan Wojcicki",
+        "Anne Wojcicki",
+        "Marc Benioff"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "celebrity",
+      "concept": "Elon Musk",
+      "train-coref": [
+        "SpaceX founder",
+        "tech billionaire innovator",
+        "electric car pioneer",
+        "Mars colonization advocate",
+        "Starlink satellite network visionary",
+        "PayPal co-creator",
+        "Neuralink champion",
+        "Twitter/X owner",
+        "philanthropic entrepreneur",
+        "hyperloop conceptualist"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "Tesla CEO",
+        "futuristic transportation proponent",
+        "social media influencer",
+        "South African-born executive",
+        "Silicon Valley magnate"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Richard Branson",
+        "Jack Ma",
+        "Bill Gates",
+        "Mark Zuckerberg",
+        "Larry Ellison",
+        "Steve Wozniak",
+        "Reed Hastings",
+        "Sundar Pichai",
+        "Satya Nadella",
+        "Tim Cook"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "Jeff Bezos",
+        "Travis Kalanick",
+        "Masayoshi Son",
+        "Peter Thiel",
+        "Marc Andreessen"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "celebrity",
+      "concept": "Rihanna",
+      "train-coref": [
+        "Fenty Beauty founder",
+        "Grammy-winning artist",
+        "multi-genre vocalist",
+        "fashion mogul",
+        "umbrella hitmaker",
+        "Savage X Fenty visionary",
+        "Caribbean music influencer",
+        "Billboard chart champion",
+        "philanthropic businesswoman",
+        "modern pop icon"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "Barbadian pop singer",
+        "Super Bowl halftime performer",
+        "trendsetting style figure",
+        "international pop superstar",
+        "entrepreneurial music star"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Nicki Minaj",
+        "Cardi B",
+        "Megan Thee Stallion",
+        "Doja Cat",
+        "Kehlani",
+        "Tinashe",
+        "Ciara",
+        "Alicia Keys",
+        "Ashanti",
+        "Jhen� Aiko"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "Beyonc�",
+        "Normani",
+        "Dua Lipa",
+        "SZA",
+        "Mary J. Blige"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "celebrity",
+      "concept": "Selena Gomez",
+      "train-coref": [
+        "pop singer-songwriter",
+        "Rare Beauty founder",
+        "revival album creator",
+        "Billboard chart success",
+        "social media influencer",
+        "actress and producer",
+        "philanthropic entrepreneur",
+        "Only Murders in the Building star",
+        "fashion collaboration muse",
+        "Latin pop-infused performer"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "former Disney star",
+        "executive TV producer",
+        "child star turned pop icon",
+        "mental health advocate",
+        "multi-talented entertainer"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Hailee Steinfeld",
+        "Sabrina Carpenter",
+        "Vanessa Hudgens",
+        "Tove Styrke",
+        "Becky G",
+        "Natti Natasha",
+        "Ros� (BLACKPINK)",
+        "Lea Michele",
+        "Zendaya",
+        "Hilary Duff"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "Demi Lovato",
+        "Debby Ryan",
+        "Ashley Tisdale",
+        "Victoria Justice",
+        "Bella Thorne"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "celebrity",
+      "concept": "Samuel L. Jackson",
+      "train-coref": [
+        "Nick Fury portrayal",
+        "Pulp Fiction breakout",
+        "iconic voice performer",
+        "Marvel Cinematic Universe star",
+        "Shaft lead actor",
+        "versatile film icon",
+        "box office record-holder",
+        "frequent Tarantino collaborator",
+        "noted cameo specialist",
+        "pop culture mainstay"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "Hollywood veteran actor",
+        "action movie regular",
+        "memorable cameo performer",
+        "theatrical stage background",
+        "influential African American actor"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Denzel Washington",
+        "Laurence Fishburne",
+        "Forest Whitaker",
+        "Don Cheadle",
+        "Anthony Mackie",
+        "Chadwick Boseman",
+        "Will Smith",
+        "Idris Elba",
+        "Wesley Snipes",
+        "Jamie Foxx"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "Morgan Freeman",
+        "Eddie Murphy",
+        "Terrence Howard",
+        "Jeffrey Wright",
+        "Giancarlo Esposito"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "celebrity",
+      "concept": "Tom Hanks",
+      "train-coref": [
+        "Forrest Gump lead",
+        "Saving Private Ryan star",
+        "America's dad persona",
+        "Philadelphia film actor",
+        "Toy Story voice talent",
+        "Bridge of Spies performer",
+        "Hollywood goodwill ambassador",
+        "veteran comedic actor",
+        "versatile drama lead",
+        "romantic comedy icon"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "Oscar-winning actor",
+        "SNL guest host regular",
+        "producer and writer",
+        "WWII miniseries contributor",
+        "emblem of wholesome roles"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Steve Martin",
+        "Tim Allen",
+        "Bill Murray",
+        "Kevin Costner",
+        "Harrison Ford",
+        "Michael Keaton",
+        "Tom Cruise",
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Morgan Freeman"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "Robin Williams",
+        "Robert Downey Jr.",
+        "Will Smith",
+        "Gary Sinise",
+        "Ed Harris"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "celebrity",
+      "concept": "Tom Cruise",
+      "train-coref": [
+        "Mission Impossible lead",
+        "Hollywood A-list star",
+        "action blockbuster favorite",
+        "Golden Globe-winning performer",
+        "stunt-performing actor",
+        "Jerry Maguire lead",
+        "Scientology adherent",
+        "long-running franchise anchor",
+        "box-office megastar",
+        "thriller movie icon"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "Top Gun pilot actor",
+        "charismatic screen presence",
+        "producer and actor duo",
+        "international film sensation",
+        "dramatic roles veteran"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Keanu Reeves",
+        "Leonardo DiCaprio",
+        "Johnny Depp",
+        "Matt Damon",
+        "Ben Affleck",
+        "George Clooney",
+        "Ryan Gosling",
+        "Christian Bale",
+        "Hugh Jackman",
+        "Orlando Bloom"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "Brad Pitt",
+        "Robert Pattinson",
+        "Jake Gyllenhaal",
+        "Chris Pratt",
+        "Mark Wahlberg"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "celebrity",
+      "concept": "Brad Pitt",
+      "train-coref": [
+        "Hollywood leading man",
+        "Oscar-winning actor",
+        "prolific film producer",
+        "Oceans Eleven ensemble member",
+        "Troy historical epic actor",
+        "romantic drama staple",
+        "A-list celebrity status",
+        "ex-husband of Angelina Jolie",
+        "noted philanthropic figure",
+        "plan b entertainment founder"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "Fight Club star",
+        "American heartthrob image",
+        "celebrated film icon",
+        "red carpet regular",
+        "fashionable public figure"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Matt Damon",
+        "Leonardo DiCaprio",
+        "Johnny Depp",
+        "Ryan Gosling",
+        "Hugh Jackman",
+        "Ben Affleck",
+        "Will Smith",
+        "Chris Hemsworth",
+        "Robert Downey Jr.",
+        "Colin Farrell"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low",
+        "Low"
+      ],
+      "test-retain": [
+        "George Clooney",
+        "Matthew McConaughey",
+        "Jake Gyllenhaal",
+        "Keanu Reeves",
+        "Tom Hardy"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    }
+  ]
+}

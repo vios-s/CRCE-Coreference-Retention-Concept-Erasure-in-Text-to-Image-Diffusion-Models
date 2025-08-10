@@ -1,0 +1,1204 @@
+{
+  "ip": [
+    {
+      "type": "IP",
+      "concept": "Harry Potter",
+      "train-coref": [
+        "Hogwarts wizard hero",
+        "Gryffindor student protagonist",
+        "Chosen One of the wizarding world",
+        "JK Rowlings central character",
+        "lightning-scarred child wizard",
+        "Voldemorts ultimate nemesis",
+        "Quidditch Seeker for Gryffindor",
+        "Triwizard Tournament champion",
+        "Dumbledores Army founder",
+        "prophecy-fulfilling sorcerer"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "the Boy Who Lived",
+        "godson of Sirius Black",
+        "wizarding war survivor",
+        "Hogwarts Express traveler",
+        "defender against dark arts"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Percy Jackson",
+        "Artemis Fowl",
+        "The Chronicles of Narnia",
+        "Wizard of Oz",
+        "Sabrina Spellman",
+        "His Dark Materials",
+        "Eragon saga",
+        "The Wheel of Time",
+        "Merlin legend",
+        "Shadow and Bone series"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Frodo Baggins",
+        "The Magicians",
+        "A Song of Ice and Fire",
+        "Doctor Strange",
+        "Game of Thrones"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "Mickey Mouse",
+      "train-coref": [
+        "anthropomorphic cartoon mouse",
+        "Steamboat Willie star",
+        "Magic Kingdom figurehead",
+        "long-standing animated icon",
+        "Minnie Mouse companion",
+        "Disney Clubhouse host",
+        "gloved cartoon character",
+        "Disney parks emblem",
+        "classic red shorts wearer",
+        "beloved childrens show figure"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "Disney's iconic mascot",
+        "animated comedic lead",
+        "Disney brand ambassador",
+        "symbol of early animation",
+        "global cartoon legend"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Goofy",
+        "Bugs Bunny",
+        "SpongeBob SquarePants",
+        "Felix the Cat",
+        "Tom and Jerry",
+        "Oswald the Lucky Rabbit",
+        "Daffy Duck",
+        "Scooby-Doo",
+        "Pink Panther",
+        "Winnie the Pooh"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Donald Duck",
+        "Popeye",
+        "Betty Boop",
+        "Chip 'n' Dale",
+        "Tweety Bird"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "Ironman",
+      "train-coref": [
+        "Marvels armored Avenger",
+        "genius billionaire inventor",
+        "Stark Industries heir",
+        "red-and-gold power suit hero",
+        "founding member of the Avengers",
+        "arc reactor-powered savior",
+        "philanthropic playboy superhero",
+        "AI-assisted helmet warrior",
+        "Iron Legion commander",
+        "Marvel Cinematic Universe icon"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "Tony Stark persona",
+        "S.H.I.E.L.D. collaborator",
+        "Stark Expo showcase figure",
+        "Mark series suit creator",
+        "heroic sacrifice for Earth"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Thor",
+        "Hulk",
+        "Black Widow",
+        "Hawkeye",
+        "War Machine",
+        "Spider-Man",
+        "Black Panther",
+        "Doctor Strange",
+        "Scarlet Witch",
+        "Thanos"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Captain America",
+        "Loki",
+        "Vision",
+        "Ant-Man",
+        "Star-Lord"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "Sherlock Holmes",
+      "train-coref": [
+        "Baker Street sleuth",
+        "consulting detective genius",
+        "violin-playing investigator",
+        "Victorian-era puzzle solver",
+        "Watsons investigative partner",
+        "pipe-smoking mystery solver",
+        "Scotland Yard consultant",
+        "archenemy of Moriarty",
+        "221B Baker Street resident",
+        "literary detective icon"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "Conan Doyles detective",
+        "deductive reasoning maestro",
+        "magnifying glass symbol",
+        "London detective legend",
+        "casebook problem solver"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Miss Marple",
+        "Phillip Marlowe",
+        "Nancy Drew",
+        "Father Brown",
+        "C. Auguste Dupin",
+        "Inspector Morse",
+        "Sam Spade",
+        "Jack Reacher",
+        "Jessica Fletcher",
+        "Batman (Worlds Greatest Detective)"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Hercule Poirot",
+        "Harry Bosch",
+        "Lisbeth Salander",
+        "L Lawliet (Death Note)",
+        "Veronica Mars"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "Super Mario",
+      "train-coref": [
+        "Mushroom Kingdom hero",
+        "jumping platform game mascot",
+        "princess rescuer",
+        "red hat-wearing protagonist",
+        "Koopa-fighting adventurer",
+        "brother of Luigi",
+        "Yoshis rider",
+        "Goomba-stomping hero",
+        "Bowsers adversary",
+        "Mario Kart racer"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "Nintendos iconic plumber",
+        "side-scrolling legend",
+        "star-powered platformer",
+        "coin-collecting icon",
+        "Nintendos mustachioed star"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Princess Peach",
+        "Donkey Kong",
+        "Link (The Legend of Zelda)",
+        "Kirby",
+        "Pikachu",
+        "Crash Bandicoot",
+        "Sonic the Hedgehog",
+        "Pac-Man",
+        "Mega Man",
+        "Rayman"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Luigi",
+        "Spyro the Dragon",
+        "Banjo-Kazooie",
+        "Samus Aran",
+        "Wario"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "SpongeBob SquarePants",
+      "train-coref": [
+        "Bikini Bottom fry cook",
+        "Krabby Patty creator",
+        "absorbent yellow cartoon hero",
+        "nautical nonsense star",
+        "best friend of Patrick Star",
+        "employee of Mr. Krabs",
+        "undersea comedic protagonist",
+        "Squidwards neighbor",
+        "Nickelodeons iconic sponge",
+        "bubbly optimism champion"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "pineapple-dwelling sponge",
+        "Gary the snail owner",
+        "jellyfishing enthusiast",
+        "fry cook at the Krusty Krab",
+        "distinctive laugh cartoon star"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Squidward Tentacles",
+        "Mr. Krabs",
+        "Sandy Cheeks",
+        "Plankton",
+        "Danny Phantom",
+        "Jimmy Neutron",
+        "Timmy Turner",
+        "Rocko (Rocko's Modern Life)",
+        "Arnold (Hey Arnold!)",
+        "Dora the Explorer"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Patrick Star",
+        "Rugrats gang",
+        "Tommy Pickles",
+        "Courage the Cowardly Dog",
+        "Ed, Edd n Eddy"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "Katniss Everdeen",
+      "train-coref": [
+        "Mockingjay symbol",
+        "District 12 tribute",
+        "bow-and-arrow warrior",
+        "arena survivor",
+        "rebel leader in Panem",
+        "Capitols outspoken challenger",
+        "Suzanne Collins protagonist",
+        "winner of the 74th Hunger Games",
+        "Peeta Mellarks ally",
+        "Girl on Fire archer"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "the Hunger Games heroine",
+        "revolutionary youth icon",
+        "symbol of defiance",
+        "sibling protector to Prim",
+        "victor turned rebel figure"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Bella Swan (Twilight)",
+        "Hermione Granger",
+        "Clary Fray (Mortal Instruments)",
+        "Rose Hathaway (Vampire Academy)",
+        "Lena Duchannes (Beautiful Creatures)",
+        "Feyre (A Court of Thorns and Roses)",
+        "Scarlet Benoit (Lunar Chronicles)",
+        "Celaena Sardothien (Throne of Glass)",
+        "Alina Starkov (Shadow and Bone)",
+        "Kelsea Glynn (Queen of the Tearling)"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Tris Prior (Divergent)",
+        "Laia (An Ember in the Ashes)",
+        "Karou (Daughter of Smoke and Bone)",
+        "Tessa Gray (Infernal Devices)",
+        "Arya Stark (Game of Thrones)"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "Batman",
+      "train-coref": [
+        "Gothams vigilante hero",
+        "Bruce Wayne alter ego",
+        "DC Comics detective",
+        "Caped Crusader persona",
+        "Wayne Enterprises heir",
+        "Bat-Signal responder",
+        "Jokers arch-nemesis",
+        "Batcave resident",
+        "protector of Gotham City",
+        "Worlds Greatest Detective"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "the Dark Knight",
+        "gritty crimefighter",
+        "Justice League founder",
+        "batarang-wielding warrior",
+        "brooding billionaire hero"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Wonder Woman",
+        "Green Lantern",
+        "The Flash",
+        "Aquaman",
+        "Nightwing",
+        "Robin (Tim Drake)",
+        "Batgirl (Barbara Gordon)",
+        "Catwoman",
+        "Ra's al Ghul",
+        "Harley Quinn"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Superman",
+        "Poison Ivy",
+        "Deadpool (Marvel)",
+        "Spider-Man",
+        "Tony Stark (Iron Man)"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "Sonic the Hedgehog",
+      "train-coref": [
+        "SEGAs iconic mascot",
+        "Green Hill Zone sprinter",
+        "ring-collecting hero",
+        "Dr. Eggmans nemesis",
+        "spiky-quilled speedster",
+        "Chaos Emerald collector",
+        "side-scrolling platform star",
+        "adventurer with Tails",
+        "loop-de-loop runner",
+        "spin dash champion"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "fast-running blue hedgehog",
+        "90s gaming legend",
+        "Sonic Boom protagonist",
+        "planet Mobius defender",
+        "supersonic transformation user"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Crash Bandicoot",
+        "Donkey Kong",
+        "Rayman",
+        "Banjo-Kazooie",
+        "Kirby",
+        "Mega Man",
+        "Pac-Man",
+        "Spyro the Dragon",
+        "Knuckles the Echidna",
+        "Tails (Miles Prower)"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Mario",
+        "Shadow the Hedgehog",
+        "Amy Rose",
+        "Yoshi",
+        "Bowser"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "Winnie the Pooh",
+      "train-coref": [
+        "Hundred Acre Wood resident",
+        "honey-loving character",
+        "Christopher Robins friend",
+        "yellow-furred plush bear",
+        "stuffed bear protagonist",
+        "gentle woodland daydreamer",
+        "Piglets close companion",
+        "Tiggers soft-spoken pal",
+        "Disney Pooh portrayal",
+        "charming childhood icon"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "A.A. Milnes teddy bear",
+        "adventure-seeking bear",
+        "sweet-natured storybook hero",
+        "rain cloud honey seeker",
+        "slow-witted but thoughtful bear"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Tigger",
+        "Eeyore",
+        "Rabbit (Hundred Acre Wood)",
+        "Owl (Hundred Acre Wood)",
+        "Kanga and Roo",
+        "Christopher Robin",
+        "Paddington Bear",
+        "Corduroy (children's book bear)",
+        "Care Bears",
+        "Gummi Bears (Disney)"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Piglet",
+        "Rupert Bear",
+        "Yogi Bear",
+        "Boo-Boo Bear",
+        "Little Charley Bear"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "Darth Vader",
+      "train-coref": [
+        "Anakin Skywalker turned villain",
+        "iconic Star Wars antagonist",
+        "black-armored Force user",
+        "Emperor Palpatines enforcer",
+        "lightsaber-wielding Sith",
+        "father of Luke Skywalker",
+        "Imperial officers nightmare",
+        "Death Star companion figure",
+        "breathing apparatus icon",
+        "fallen Jedi Knight"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "Dark Lord of the Sith",
+        "the chosen one turned dark",
+        "Galactic Empire symbol",
+        "red lightsaber warrior",
+        "helmeted heavy-breather"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Obi-Wan Kenobi",
+        "Princess Leia",
+        "Han Solo",
+        "Kylo Ren",
+        "Emperor Palpatine",
+        "Boba Fett",
+        "Yoda",
+        "Darth Maul",
+        "Ahsoka Tano",
+        "Rey Skywalker"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Luke Skywalker",
+        "Mandalorian (Din Djarin)",
+        "Mace Windu",
+        "Count Dooku",
+        "Grand Admiral Thrawn"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "Spock",
+      "train-coref": [
+        "Star Trek original series icon",
+        "USS Enterprise first officer",
+        "logical Vulcan mind",
+        "son of Sarek and Amanda",
+        "live long and prosper greet",
+        "logical rational viewpoint",
+        "pointy-eared Starfleet officer",
+        "friend of Captain Kirk",
+        "emotion-suppressed Vulcan",
+        "chief science officer of Enterprise"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "half-Vulcan science officer",
+        "Vulcan nerve pinch user",
+        "Leonard Nimoys portrayal",
+        "alien-human hybrid intellect",
+        "classic sci-fi figure"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Leonard McCoy (Bones)",
+        "Uhura",
+        "Scotty (Montgomery Scott)",
+        "Jean-Luc Picard",
+        "Data (Android officer)",
+        "Worf (Klingon officer)",
+        "Seven of Nine",
+        "Benjamin Sisko",
+        "Kathryn Janeway",
+        "William Riker"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Captain James T. Kirk",
+        "Deanna Troi",
+        "Geordi La Forge",
+        "Quark (Ferengi bartender)",
+        "Tuvok (Vulcan officer)"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "Frodo Baggins",
+      "train-coref": [
+        "protagonist of The Lord of the Rings",
+        "nephew of Bilbo Baggins",
+        "Shire-dwelling adventurer",
+        "Middle-earth quest bearer",
+        "Samwise Gamgees companion",
+        "dark lords ring destroyer",
+        "Fellowship of the Ring member",
+        "Mount Doom pilgrim",
+        "savior of Middle-earth",
+        "Tolkiens reluctant hero"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "ring-bearing hobbit hero",
+        "one ring custodian",
+        "hairy-footed halfling",
+        "mortal ring-bearer",
+        "elf-friend hobbit traveler"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Gandalf the Grey",
+        "Legolas Greenleaf",
+        "Gimli son of Gloin",
+        "Bilbo Baggins",
+        "Samwise Gamgee",
+        "Meriadoc Brandybuck",
+        "Peregrin Took",
+        "Gollum (Sm�agol)",
+        "Boromir of Gondor",
+        "Th�oden King of Rohan"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Aragorn (Strider)",
+        "Galadriel of Lothl�rien",
+        "Elrond of Rivendell",
+        "Saruman the White",
+        "Eowyn of Rohan"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "Lara Croft",
+      "train-coref": [
+        "adventurous British archaeologist",
+        "video game action heroine",
+        "dual-pistol treasure hunter",
+        "Crystal Dynamics icon",
+        "cliff-jumping explorer",
+        "ancient ruins adventurer",
+        "archaeology enthusiast",
+        "iconic puzzle solver",
+        "Square Enix property",
+        "island survivor in reboots"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "Tomb Raider protagonist",
+        "cultural gaming symbol",
+        "nimble platforming character",
+        "treasure-seeking adventurer",
+        "archery and firearms expert"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Indiana Jones",
+        "Chloe Frazer (Uncharted)",
+        "Laras Doppelg�nger (Tomb Raider series)",
+        "Link (Zelda series)",
+        "Samus Aran (Metroid)",
+        "Prince of Persia",
+        "Aloy (Horizon Zero Dawn)",
+        "Bayonetta",
+        "Faith Connors (Mirror's Edge)",
+        "Jade (Beyond Good & Evil)"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Nathan Drake (Uncharted)",
+        "Joanna Dark (Perfect Dark)",
+        "Ezio Auditore (Assassins Creed)",
+        "Senua (Hellblade)",
+        "Agent 47 (Hitman)"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    },
+    {
+      "type": "IP",
+      "concept": "The Joker",
+      "train-coref": [
+        "clown prince of crime",
+        "insane Gotham City antagonist",
+        "DC Comics iconic criminal",
+        "green-haired maniac",
+        "Harley Quinns partner in chaos",
+        "violent clown-themed mastermind",
+        "Arkham Asylum inmate",
+        "anarchic comedic villain",
+        "giggling psychopath with face paint",
+        "cards-based calling card"
+      ],
+      "train-coref-certainty": [
+        "Very High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-coref": [
+        "Batmans archvillain",
+        "Crown prince of clownish terror",
+        "unpredictable trickster foe",
+        "dark comedic vigilante opposite",
+        "twisted DC Universe menace"
+      ],
+      "test-coref-certainty": [
+        "Very High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ],
+      "train-retain": [
+        "Harley Quinn",
+        "Riddler",
+        "Penguin (Oswald Cobblepot)",
+        "Two-Face (Harvey Dent)",
+        "Poison Ivy",
+        "Scarecrow (Jonathan Crane)",
+        "Bane",
+        "Killer Croc",
+        "Victor Zsasz",
+        "Deathstroke (Slade Wilson)"
+      ],
+      "train-retain-certainty": [
+        "High",
+        "High",
+        "High",
+        "High",
+        "High",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Normal",
+        "Low"
+      ],
+      "test-retain": [
+        "Batman",
+        "Lex Luthor",
+        "Darkseid",
+        "Brainiac",
+        "Loki (Marvel trickster)"
+      ],
+      "test-retain-certainty": [
+        "High",
+        "Low",
+        "Low",
+        "Low",
+        "Very Low"
+      ]
+    }
+  ]
+}
