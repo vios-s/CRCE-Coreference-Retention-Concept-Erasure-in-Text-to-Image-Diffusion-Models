@@ -32,7 +32,7 @@ L_total = L_anchor + α·L_coref + β·L_retain
 
 ```bash
 git clone https://github.com/vios-s/CRCE-Coreference-Retention-Concept-Erasure-in-Text-to-Image-Diffusion-Models
-cd CRCE-Coreference-Retention-Concept-Erasure-in-Text-to-Image-Diffusion-Models
+cd CRCE
 pip install -r requirements.txt
 ```
 
